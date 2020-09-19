@@ -58,7 +58,6 @@ p{
 @media only screen and (max-width:1100px){
     #all{
         width: 400px;
-        margin: auto;
     }
 
     #map {
@@ -71,7 +70,6 @@ p{
 @media only screen and (max-width:900px){
     #all{
         width: 350px;
-        margin: auto;
     }
 
     #map {
