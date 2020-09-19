@@ -3,7 +3,7 @@ var json_cursinhos =
 {
 "type":"Feature" ,
 	"properties":{
-				"Name":"teste",
+				"Name":"ABC",
 				"description":"Aqui vai a descrição"
 				},
 	"geometry":{
@@ -11,6 +11,17 @@ var json_cursinhos =
 				"coordinates":[-46.6923682,-23.6580205]
 				}
 },
+{
+	"type":"Feature" ,
+		"properties":{
+					"Name":"DEF",
+					"description":"Aqui vai a descrição"
+					},
+		"geometry":{
+					"type":"Point",
+					"coordinates":[-46.5923682,-23.7580205]
+					}
+	},
 
 
 ]}
