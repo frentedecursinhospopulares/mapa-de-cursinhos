@@ -62,19 +62,19 @@ p{
 
     #map {
         width: 500px;
-        height: 600px;
+        height: 650px;
     }
 
 }
 
 @media only screen and (max-width:900px){
     #all{
-        width: 400px;
+        width: 450px;
     }
 
     #map {
-        width: 400px;
-        height: 450px;
+        width: 450px;
+        height: 550px;
     }
 
 }
