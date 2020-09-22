@@ -1,7 +1,3 @@
-.container{
-    width: 900px;
-}
-
 .btn-info{
     color: black;
     background-color: orangered;
@@ -69,30 +65,4 @@ h2{
     font-weight: 300;
     padding: 4px;
     overflow-wrap: break-word;
-}
-
-/* celular */
-
-@media only screen and (min-width: 600px) {
-    .container{
-        width: 400px;
-    }
-}
-
-@media only screen and (min-width: 768px) {
-    .container{
-        width: 550px;
-    }
-}
-
-@media only screen and (min-width: 992px){
-    .container{
-        width: 750px;
-    }
-}
-
-@media only screen and (min-width: 1200px){
-    .container{
-        width: 900px;
-    }
 }
