@@ -1,6 +1,6 @@
 .btn-info{
     color: black;
-    background-color: orangered;
+    background-color: rgba(255, 68, 0, 0.8);
 }
 
 .btn-info:hover{
@@ -8,22 +8,42 @@
     color: orangered;
 }
 
+b{
+    font-weight: 900;
+}
+
 a{
     color: inherit;
+}
+
+.nowrap{
+    white-space: nowrap;
 }
 
 a:hover{
     color: inherit;
 }
 
+#formulario > a{
+    color: blue;
+}
+
+#formulario > a:hover{
+    font-weight: 700;
+}
+
 .justify{
     text-align: justify;
-    text-align-last: center;
+    text-align-last: left;
 }
 
 #map {
     width: 900px;
     height: 700px;
+}
+
+.blackborder1px{
+    border: 1px solid black;
 }
 
 .padding15px{
@@ -38,6 +58,10 @@ a:hover{
     margin: auto;
 }
 
+.right{
+    right: 0;
+}
+
 .center-text{
     text-align: center;
 }
@@ -49,6 +73,10 @@ a:hover{
 
 h2{
     font-weight: 700;
+}
+
+h4{
+    font-size: 18pt;
 }
 
 .panel-body{
